@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d24fa10f-13b7-46d4-9da5-e3e67918f251" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="locallibrary" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="/usr/bin/git" />
+  </component>
+  <component name="ProjectId" id="1ZboGq3WtoBfSwhTahLpGNhjCnH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="locallibrary" type="Python.DjangoServer" factoryName="Django server">
+      <module name="locallibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d24fa10f-13b7-46d4-9da5-e3e67918f251" name="Default Changelist" comment="" />
+      <created>1585117061704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585117061704</updated>
+      <workItem from="1585117083723" duration="4084000" />
+      <workItem from="1585287615704" duration="8426000" />
+      <workItem from="1585388644716" duration="463000" />
+      <workItem from="1585411477263" duration="5982000" />
+      <workItem from="1585458428391" duration="5831000" />
+      <workItem from="1585645221300" duration="12424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#Notifications" timestamp="1585681368068">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1585681368068" />
+    <state x="278" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585287647169">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1585287647169" />
+    <state x="456" y="159" width="447" height="498" key="FileChooserDialogImpl" timestamp="1585681281455">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="456" y="159" width="447" height="498" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585681281455" />
+    <state x="814" y="298" key="Github.CreateGistDialog" timestamp="1585120339705">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="814" y="298" key="Github.CreateGistDialog/0.27.1366.741@0.27.1366.741" timestamp="1585120339705" />
+    <state x="532" y="292" width="284" height="224" key="Github.ShareDialog" timestamp="1585681327022">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="532" y="292" width="284" height="224" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1585681327022" />
+    <state x="172" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1585681411006">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="27" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1585681411006" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585645222192">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1585645222192" />
+    <state x="347" y="38" width="662" height="662" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585415685178">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="38" width="662" height="662" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1585415685178" />
+  </component>
+</project>
